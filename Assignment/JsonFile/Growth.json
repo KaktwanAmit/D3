@@ -1,0 +1,135 @@
+[
+  {
+    "CountryName": "Argentina",
+    "Population2010": 40.12,
+    "Population2013": 41.49,
+    "GDP2010": 367.57,
+    "GDP2013": 498.7
+  },
+  {
+    "CountryName": "Australia",
+    "Population2010": 22.18,
+    "Population2013": 23.05,
+    "GDP2010": 1247.11,
+    "GDP2013": 1589.12
+  },
+  {
+    "CountryName": "Brazil",
+    "Population2010": 194.95,
+    "Population2013": 199.88,
+    "GDP2010": 2142.93,
+    "GDP2013": 2456.66
+  },
+  {
+    "CountryName": "Canada",
+    "Population2010": 34.08,
+    "Population2013": 35.21,
+    "GDP2010": 1616.02,
+    "GDP2013": 1843.75
+  },
+  {
+    "CountryName": "China",
+    "Population2010": 1340.91,
+    "Population2013": 1360.76,
+    "GDP2010": 5930.39,
+    "GDP2013": 9020.31
+  },
+  {
+    "CountryName": "France",
+    "Population2010": 62.77,
+    "Population2013": 63.7,
+    "GDP2010": 2570.59,
+    "GDP2013": 2739.27
+  },
+  {
+    "CountryName": "Germany",
+    "Population2010": 81.76,
+    "Population2013": 81.75,
+    "GDP2010": 3312.19,
+    "GDP2013": 3597.97
+  },
+  {
+    "CountryName": "India",
+    "Population2010": 1190.52,
+    "Population2013": 1239.26,
+    "GDP2010": 1614.83,
+    "GDP2013": 1972.84
+  },
+  {
+    "CountryName": "Indonesia",
+    "Population2010": 237.64,
+    "Population2013": 247.95,
+    "GDP2010": 709.54,
+    "GDP2013": 946.39
+  },
+  {
+    "CountryName": "Italy",
+    "Population2010": 60.34,
+    "Population2013": 61,
+    "GDP2010": 2059.19,
+    "GDP2013": 2076.01
+  },
+  {
+    "CountryName": "Japan",
+    "Population2010": 128.05,
+    "Population2013": 127.34,
+    "GDP2010": 5495.39,
+    "GDP2013": 5149.9
+  },
+  {
+    "CountryName": "Mexico",
+    "Population2010": 112.32,
+    "Population2013": 116.02,
+    "GDP2010": 1034.15,
+    "GDP2013": 1274.97
+  },
+  {
+    "CountryName": "Russia",
+    "Population2010": 142.9,
+    "Population2013": 141.44,
+    "GDP2010": 1525.35,
+    "GDP2013": 2213.57
+  },
+  {
+    "CountryName": "Saudi Arabia",
+    "Population2010": 27.56,
+    "Population2013": 26.93,
+    "GDP2010": 526.81,
+    "GDP2013": 745.62
+  },
+  {
+    "CountryName": "South Africa",
+    "Population2010": 49.99,
+    "Population2013": 51.81,
+    "GDP2010": 363.2,
+    "GDP2013": 375.99
+  },
+  {
+    "CountryName": "Republic of Korea",
+    "Population2010": 49.41,
+    "Population2013": 50.24,
+    "GDP2010": 1014.89,
+    "GDP2013": 1258.59
+  },
+  {
+    "CountryName": "Turkey",
+    "Population2010": 73,
+    "Population2013": 75.81,
+    "GDP2010": 731.29,
+    "GDP2013": 851.82
+  },
+  {
+    "CountryName": "United Kingdom",
+    "Population2010": 62.26,
+    "Population2013": 63.76,
+    "GDP2010": 2267.48,
+    "GDP2013": 2422.92
+  },
+  {
+    "CountryName": "USA",
+    "Population2010": 309.73,
+    "Population2013": 316.85,
+    "GDP2010": 14498.93,
+    "GDP2013": 16237.75
+  }
+]

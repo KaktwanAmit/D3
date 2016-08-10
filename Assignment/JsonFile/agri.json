@@ -1,0 +1,29 @@
+[
+     {
+          "Country":"SouthAfrica",
+          "Population": 293.18,
+          "GDP": 3331.3499999999995
+     },
+     {
+          "Continent":"Australia",
+          "Population": 23.05,
+          "GDP": 1589.12
+          
+     },
+     {
+          "Continent":"America",
+          "Population": 468.08000000000004,
+          "GDP": 19356.47
+          
+     },
+     {
+          "Continent":"Asia",
+          "Population": 3193.9199999999996,
+          "GDP": 21307.219999999998
+     },
+     {
+          "Continent":"Europe",
+          "Population": 200.57,
+          "GDP": 5350.75
+     }
+]
